@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130003660816",
+    "project_id": "educare-mobile-40f4a",
+    "storage_bucket": "educare-mobile-40f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130003660816:android:2d801a06e3aabf702f9a95",
+        "android_client_info": {
+          "package_name": "com.example.emr_m_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE31zZ1Sy-PVtBNiwdp8FZIS61nYYKMs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
